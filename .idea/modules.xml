@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/base-service/base-service.iml" filepath="$PROJECT_DIR$/base-service/base-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service.iml" filepath="$PROJECT_DIR$/micro-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-consumer/service-coustomer/service-client/service-client.iml" filepath="$PROJECT_DIR$/service-consumer/service-coustomer/service-client/service-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-service/service-config/service-config.iml" filepath="$PROJECT_DIR$/base-service/service-config/service-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-service/service-config (1).iml" filepath="$PROJECT_DIR$/base-service/service-config (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-consumer/service-consumer.iml" filepath="$PROJECT_DIR$/service-consumer/service-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-consumer/service-coustomer/service-coustomer.iml" filepath="$PROJECT_DIR$/service-consumer/service-coustomer/service-coustomer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-service/service-discover/service-discover.iml" filepath="$PROJECT_DIR$/base-service/service-discover/service-discover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-consumer/service-coustomer/service-impl/service-impl.iml" filepath="$PROJECT_DIR$/service-consumer/service-coustomer/service-impl/service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-consumer/service-coustomer/serviceevent.iml" filepath="$PROJECT_DIR$/service-consumer/service-coustomer/serviceevent.iml" />
+    </modules>
+  </component>
+</project>

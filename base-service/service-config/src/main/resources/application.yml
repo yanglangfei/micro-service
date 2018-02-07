@@ -1,0 +1,15 @@
+server:
+  port: 0
+spring:
+  application:
+    name: config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/forezp/SpringcloudConfig/   # 配置存放配置文件的git地址
+          search-paths: respo      # 配置仓库路径
+          username: 185601452@qq.com
+          password: 111111
+      label: master     # 配置仓库的分支
+

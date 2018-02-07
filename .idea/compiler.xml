@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service-client" />
+        <module name="service-config" />
+        <module name="service-config (1)" />
+        <module name="service-discover" />
+        <module name="service-impl" />
+      </profile>
+      <profile name="Annotation profile for yf.main" enabled="true">
+        <sourceOutputDir name="service-config/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="service-config/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="base-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="base-service" target="1.8" />
+      <module name="micro-service" target="1.5" />
+      <module name="service-client" target="1.5" />
+      <module name="service-config" target="1.8" />
+      <module name="service-config (1)" target="1.8" />
+      <module name="service-consumer" target="1.5" />
+      <module name="service-discover" target="1.8" />
+      <module name="service-impl" target="1.8" />
+      <module name="serviceevent" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
