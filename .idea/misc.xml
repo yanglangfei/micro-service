@@ -5,13 +5,13 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/base-service/pom.xml" />
-        <option value="$PROJECT_DIR$/base-service/service-config/pom.xml" />
         <option value="$PROJECT_DIR$/base-service/service-discover/pom.xml" />
         <option value="$PROJECT_DIR$/service-consumer/service-coustomer/service-impl/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/base-service/service-config/pom.xml" />
         <option value="$PROJECT_DIR$/config/pom.xml" />
       </set>
     </option>

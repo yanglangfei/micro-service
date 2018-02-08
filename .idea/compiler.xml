@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="service-client" />
-        <module name="service-config" />
         <module name="service-config (1)" />
         <module name="service-discover" />
         <module name="service-impl" />

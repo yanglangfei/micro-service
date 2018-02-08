@@ -1,5 +1,5 @@
 server:
-  port: 0
+  port: 80080
 spring:
   application:
     name: config
@@ -11,5 +11,12 @@ spring:
           search-paths: respo      # 配置仓库路径
           username: 185601452@qq.com
           password: 111111
-      label: master     # 配置仓库的分支
+      label: master  # 配置仓库的分支
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    serviceUrl:
+      defaultZone: http://192.168.1.139:8761/eureka/
+
 
